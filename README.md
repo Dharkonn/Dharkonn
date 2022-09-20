@@ -1,6 +1,6 @@
 # Sobre mim
 - 👋 Olá meu nome é **@Dharkonn**
-- :+1: meu email de contato é [email](lucas.rosa20@escola.pr.gov.br)
+- :+1: meu [email](lucas.rosa20@escola.pr.gov.br) de contato
 - 👀 Eu estou interessado em aprender a programar novas linguagens.
 - 🌱 Eu estou aprendendo a programar recentemente a linguagem JavaScript e Scratch
 
